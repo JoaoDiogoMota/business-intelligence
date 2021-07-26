@@ -1,6 +1,8 @@
 # Business-Intelligence
 
 
+[Technical Report](https://github.com/JoaoDiogoMota/business-Intelligence/blob/main/Report.pdf)
+
 ## Collaborators
 
 | Name            	|
